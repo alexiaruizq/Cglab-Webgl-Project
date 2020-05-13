@@ -1,0 +1,23 @@
+{
+  "name": "cglab-webgl-project3",
+  "version": "1.0.0",
+  "description": "Este es un proyecto Webgl 2.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webgl",
+    "games",
+    "cg",
+    "shader",
+    "glsl",
+    "2d",
+    "3d"
+  ],
+  "author": "Alexia Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
